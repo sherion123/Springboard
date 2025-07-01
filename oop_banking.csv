@@ -1,0 +1,7 @@
+account_number,first_name,last_name,gender,account_type,balance,transactions,checkbook_issued
+00001,Sheena,Ondoy,F,savings,174.0,"2025-06-30 23:07:52.897707 - Deposit - $50.0
+Balance: $199.0|2025-06-30 23:08:09.921356 - Withdrawal - $25.0
+Balance: $174.0",
+00002,John,Doe,M,checking,300.0,"2025-06-30 23:08:32.184361 - Deposit - $500.0
+Balance: $550.0|2025-06-30 23:08:40.145550 - Withdrawal - $250.0
+Balance: $300.0",True

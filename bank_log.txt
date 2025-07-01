@@ -1,0 +1,26 @@
+2025-06-30 00:27:57,007 - INFO - Created savings account 00001 for Sheena Ondoy
+2025-06-30 00:28:17,555 - INFO - Deposited $100.0 to account 00001
+2025-06-30 00:28:40,561 - WARNING - Failed deposit on 00001: Amount must be non-negative!
+2025-06-30 00:29:04,819 - INFO - Deposited $50.0 to account 00001
+2025-06-30 00:29:26,338 - INFO - Withdrew $1.0 from account 00001
+2025-06-30 00:30:04,554 - WARNING - Failed withdraw on 00001: Insufficient funds: Cannot go below minimum balance of $100 in a savings account.
+2025-06-30 00:30:14,707 - INFO - Viewed account 00001
+2025-06-30 22:57:55,635 - INFO - Viewed account 00001
+2025-06-30 22:58:31,796 - INFO - Created checking account 00002 for John Doe
+2025-06-30 22:58:43,052 - INFO - Deposited $100.0 to account 00002
+2025-06-30 22:59:01,594 - WARNING - Failed deposit on 00002: could not convert string to float: 'hello'
+2025-06-30 22:59:22,705 - INFO - Viewed account 00002
+2025-06-30 23:03:09,171 - INFO - Viewed account 00002
+2025-06-30 23:03:39,611 - WARNING - Failed withdraw on 00002: Insufficient funds.
+2025-06-30 23:03:52,234 - INFO - Withdrew $50.0 from account 00002
+2025-06-30 23:03:59,274 - INFO - Viewed account 00002
+2025-06-30 23:04:27,091 - INFO - Issued checkbook to account 00002
+2025-06-30 23:04:37,730 - INFO - Viewed account 00002
+2025-06-30 23:07:18,537 - INFO - Viewed account 00001
+2025-06-30 23:07:52,897 - INFO - Deposited $50.0 to account 00001
+2025-06-30 23:07:59,520 - INFO - Viewed account 00001
+2025-06-30 23:08:09,921 - INFO - Withdrew $25.0 from account 00001
+2025-06-30 23:08:17,289 - INFO - Viewed account 00001
+2025-06-30 23:08:32,184 - INFO - Deposited $500.0 to account 00002
+2025-06-30 23:08:40,145 - INFO - Withdrew $250.0 from account 00002
+2025-06-30 23:08:48,856 - INFO - Viewed account 00002
